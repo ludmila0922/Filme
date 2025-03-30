@@ -19,3 +19,4 @@ Te entrega um JSON com as informações organizadas.
 2. Crie um ambiente virtual:
    ```sh
    python -m venv venv
+   depois digite python app.py
